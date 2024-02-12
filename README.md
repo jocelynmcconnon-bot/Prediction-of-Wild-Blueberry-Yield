@@ -3,7 +3,9 @@
 [Competition Overview](https://www.kaggle.com/competitions/playground-series-s3e14/overview)
 
 ## Files:
-
+- **Predicting Wild Blueberry Yield Analysis of Models**
+  - *Purpose:* Report presenting the various strategies used in the Kaggle competition.
+  
 - **blueberry_data_exploration**
   - *Purpose:* This notebook explores the top 5 attributes strongly correlated with wild blueberry yield, offering simple visualizations to clarify their relationships.
 
